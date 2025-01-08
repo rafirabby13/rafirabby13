@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="https://iwanta.tech/technologies/react/react.webp"  />
+  <img height="350" src="https://iwanta.tech/technologies/react/react.webp"  />
 </div>
 
 ###
