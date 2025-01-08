@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">Hello I am Rafi a frontend Developer from bangladesh. I make beautiful websites</p>
+<p align="left">Hello I am Rafi a frontend Developer from bangladesh. I make beautiful websites using technologies like React JS, Tailwind.I am fluent in making interactive websites</p>
 
 ###
 
