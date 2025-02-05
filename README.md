@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="left">Hey There. I am  Rafi...</h1>
+<h1 align="left">Rafi Ahmed</h1>
 
 ###
 
@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since  2022...<br>📚 I'm currently learning Frontend development...<br>🎯 Goals:  Become a front-end developer by 2025...<br>🎲 Fun fact:  Sleep Sleep and Sleep...</p>
+<p align="left">✨ Creating bugs since  2022...<br>📚 I'm currently learning Next.Js...<br>📚 Learning Redux...<br>🎯 Goals:  Become a front-end developer by 2025...<br>🎲 Fun fact:  Sleep Sleep and Sleep...</p>
 
 ###
 
