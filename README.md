@@ -5,9 +5,6 @@
 ###
 
 <h1 align="left">Rafi Ahmed</h1>
-
-###
-
 <h2 align="left">Frontend Developer</h2>
 
 ###
