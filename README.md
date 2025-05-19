@@ -1,6 +1,6 @@
 ###
 <div align="center">
-  <img height="200" width="full" src="https://i.ibb.co.com/S4ZPjMny/Opening-Soon-4.png"  />
+  <img height="200" width="100%" src="https://i.ibb.co.com/S4ZPjMny/Opening-Soon-4.png"  />
 </div>
 
 ###
