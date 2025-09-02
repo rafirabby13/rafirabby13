@@ -1,7 +1,8 @@
 ###
 <div align="center">
-  <img height="600" width="100%" src="https://i.ibb.co.com/r2xMcqk4/Opening-Soon-5.png"  />
+  <img src="https://i.ibb.co/r2xMcqk4/Opening-Soon-5.png" alt="Banner" width="100%" />
 </div>
+
 
 ###
 
