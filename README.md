@@ -15,11 +15,16 @@ Fullstack Developer
 
 ###
 
-<p align="left">Hello I am Rafi a frontend Developer from bangladesh. I make beautiful websites using technologies like React JS, Tailwind.I am fluent in making interactive websites</p>
+<p align="left">I specialize in building responsive and high-performance web interfaces using React.js, Next.js, 
+Typescript, NoSQL Tailwind CSS, and Firebase Authentication. My experience with the MERN 
+stack has enabled me to develop full-featured applications with seamless frontend-backend 
+integration. Recently, I led the development of a performance-optimized academic portal 
+featuring JWT, real-time messaging ( AI ), and a responsive UI — all with the goal of enhancing 
+user experience and accessibility.</p>
 
 ###
 
-<p align="left">✨ Creating bugs since  2022...<br>📚 I'm currently learning Next.Js...<br>📚 Learning Redux...<br>🎯 Goals:  Become a front-end developer by 2025...<br>🎲 Fun fact:  Sleep Sleep and Sleep...</p>
+<p align="left">✨ Creating bugs since  2022...<br>📚 I'm currently learning AWS...<br>📚 Learning Redis...<br>🎯 Goals:  Become a fullstack developer by 2025...<br>🎲 Fun fact:  Sleep Sleep and Sleep...</p>
 
 ### 💻 Tech Stack:
 ###
