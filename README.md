@@ -21,10 +21,9 @@
 
 <p align="left">✨ Creating bugs since  2022...<br>📚 I'm currently learning Next.Js...<br>📚 Learning Redux...<br>🎯 Goals:  Become a front-end developer by 2025...<br>🎲 Fun fact:  Sleep Sleep and Sleep...</p>
 
-###
+### 💻 Tech Stack:
 
 <div align="left">
-# 💻 Tech Stack:
 
 <div align="center">
 
