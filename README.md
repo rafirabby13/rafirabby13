@@ -26,7 +26,8 @@ user experience and accessibility.</p>
 
 <p align="left">✨ Creating bugs since  2022...<br>📚 I'm currently learning AWS...<br>📚 Learning Redis...<br>🎯 Goals:  Become a fullstack developer by 2025...<br>🎲 Fun fact:  Sleep Sleep and Sleep...</p>
 
-### 💻 Tech Stack:
+### 
+Tech Stack:
 ###
 <div align="left">
 
