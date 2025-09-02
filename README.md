@@ -7,7 +7,7 @@
 ###
 
 <h1 align="left">Rafi Ahmed</h1>
-<h2 align="left">Fullstack Developer</h2>
+Fullstack Developer
 
 ###
 
@@ -22,7 +22,7 @@
 <p align="left">✨ Creating bugs since  2022...<br>📚 I'm currently learning Next.Js...<br>📚 Learning Redux...<br>🎯 Goals:  Become a front-end developer by 2025...<br>🎲 Fun fact:  Sleep Sleep and Sleep...</p>
 
 ### 💻 Tech Stack:
-
+###
 <div align="left">
 
 <div align="center">
