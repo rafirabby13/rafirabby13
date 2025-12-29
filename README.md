@@ -20,12 +20,18 @@
 
 ###
 
-<p align="left">I specialize in building responsive and high-performance web interfaces using React.js, Next.js, 
-Typescript, NoSQL Tailwind CSS, and Firebase Authentication. My experience with the MERN 
-stack has enabled me to develop full-featured applications with seamless frontend-backend 
-integration. Recently, I led the development of a performance-optimized academic portal 
-featuring JWT, real-time messaging ( AI ), and a responsive UI — all with the goal of enhancing 
-user experience and accessibility.</p>
+### Hi there, I'm Rafi Ahmed! 👋
+
+I am a **Full Stack Developer** specializing in building scalable, production-ready applications. I focus on **Engineering Discipline**—writing type-safe, maintainable code that drives business goals.
+
+- 🔭 **I specialize in:** MERN Stack, Next.js, TypeScript, MongoDB, and Tailwind CSS.
+- 🚀 **Recent Work:** I architected a **Performance-Optimized Academic Portal** featuring:
+  - **Secure Auth:** JWT & Firebase Authentication.
+  - **Real-Time AI:** Integrated Gemini AI for intelligent messaging.
+  - **Performance:** Server-side rendering with Next.js for sub-100ms load times.
+- ⚡ **My Philosophy:** I don't just write code; I build accessible, high-performance interfaces with seamless frontend-backend integration.
+
+📫 **Reach me at:** [rafiahmedrabby282@gmail.com](mailto:rafiahmedrabby282@gmail.com)
 
 ###
 
