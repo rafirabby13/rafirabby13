@@ -35,7 +35,6 @@ I am a **Full Stack Developer** specializing in building scalable, production-re
 
 ###
 
-<p align="left">✨ Creating bugs since  2022...<br>📚 I'm currently learning AWS...<br>📚 Learning Redis...<br>🎯 Goals:  Become a fullstack developer by 2025...<br>🎲 Fun fact:  Sleep Sleep and Sleep...</p>
 
 ### 
 ### Tech Stack:
