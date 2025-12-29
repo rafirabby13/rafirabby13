@@ -91,11 +91,14 @@ I am a **Full Stack Developer** specializing in building scalable, production-re
 
 ###
 
-<div align="center"> 
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rafirabby13&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> 
-  
-<img src="https://streak-stats.demolab.com?user=rafirabby13&theme=github-dark-blue&mode=weekly" alt="GitHub Streak" />  
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=rafirabby13&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> 
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rafirabby13&show_icons=true&count_private=true&theme=dracula&hide_border=true" height="165" alt="stats graph" />
+
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=rafirabby13&layout=compact&langs_count=6&theme=dracula&hide_border=true" height="165" alt="languages graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.demolab.com?user=rafirabby13&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </div>
 
 
